@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://daily1020.github.io/sitemap.xml

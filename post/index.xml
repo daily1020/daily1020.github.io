@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Daily</title>
+    <link>https://daily1020.github.io/post/</link>
+    <description>Recent content in Posts on Daily</description>
+    <image>
+      <url>https://daily1020.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daily1020.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 Jul 2022 02:23:57 +0800</lastBuildDate><atom:link href="https://daily1020.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>July 05</title>
+      <link>https://daily1020.github.io/post/2022/july-05/</link>
+      <pubDate>Wed, 06 Jul 2022 02:23:57 +0800</pubDate>
+      
+      <guid>https://daily1020.github.io/post/2022/july-05/</guid>
+      <description>Countdown for 172 days 李林880 第一章基础篇 武忠祥高数基础 函数极限运算 句句真研 简单句的拓展部分 操作系统 摘星题库进程综合题 力扣 33.search-in-rotated-sorted-array; 236.lowest-common-ancestor-of-a-binary-tree; 88.merge-sorted-array tinysql 第二部分AST转化，yacc基本语法 </description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://daily1020.github.io/post/hello/</link>
+      <pubDate>Wed, 06 Jul 2022 01:15:43 +0800</pubDate>
+      
+      <guid>https://daily1020.github.io/post/hello/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, and also shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
