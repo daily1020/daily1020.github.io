@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Note on Daily</title>
+    <link>https://daily1020.github.io/categories/note/</link>
+    <description>Recent content in Note on Daily</description>
+    <image>
+      <url>https://daily1020.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daily1020.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 Jul 2022 14:16:11 +0800</lastBuildDate><atom:link href="https://daily1020.github.io/categories/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LeetCode</title>
+      <link>https://daily1020.github.io/post/leetcode/</link>
+      <pubDate>Fri, 01 Jul 2022 14:16:11 +0800</pubDate>
+      
+      <guid>https://daily1020.github.io/post/leetcode/</guid>
+      <description>ID Status Problem Difficulty Frequency 1 ✅ 206.reverse-linked-list Easy 496 2 ✅ 3.longest-substring-without-repeating-characters Medium 455 3 ✅ 146.lru-cache Medium 401 4 ✅ 215.kth-largest-element-in-an-array Medium 333 5 ✅ 25.reverse-nodes-in-k-group Hard 254 6 ✅ 15.3sum Medium 237 7 ✅ 53.maximum-subarray Easy 212 8 ✅ 21.merge-two-sorted-lists Easy 204 9 ✅ 1.two-sum Easy 196 10 ✅ 102.binary-tree-level-order-traversal Medium 189 11 ✅ 121.best-time-to-buy-and-sell-stock Easy 175 12 ✅ 20.valid-parentheses Easy 174 13 ✅ 141.linked-list-cycle Easy 174 14 ✅ 103.</description>
+    </item>
+    
+  </channel>
+</rss>
